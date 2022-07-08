@@ -38,11 +38,14 @@ php artisan migrate
 ```
 ### BASE DE DATOS
 • DB_DATABASE=db_konecta_cafeteria
+<br>
 • DB_USERNAME=k_user
+<br>
 • DB_PASSWORD=k_123
 
 ### USUARIO PARA INGRESAR AL SISTEMA
 • CORREO:admin@admin.com
+<br>
 • CONTRASEÑA=12345678
 
 
