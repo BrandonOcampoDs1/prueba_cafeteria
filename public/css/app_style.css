@@ -1,0 +1,64 @@
+/* FORM LOGIN */
+
+#body_login{
+    background-image: url('../img/fondo1.jpg'); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 1;
+}
+
+#card_form_login{
+    height: 90vh;
+    vertical-align: middle;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+#form_login{
+    vertical-align: middle;
+    justify-content: center;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 35%;
+    border: 1px solid #0028554f;
+    border-radius: 2rem;
+    box-shadow: 10px 10px 88px -28px rgb(129 96 64);
+    background-color: #fdfbee;
+}
+
+#form_login input{
+    background: #f8fafc3b;
+    border-radius: 9px;
+}
+
+@media (max-width: 1065px) {
+    #form_login {
+        width: 90%;
+    }
+}
+
+/* HOME */
+
+.cards_home{
+    border-radius: 2rem;
+}
+
+.btn_administrar{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #29628D12 0% 0% no-repeat padding-box;
+    border: 0.30000001192092896px solid #29628D;
+}
+
+.botones_administrar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
