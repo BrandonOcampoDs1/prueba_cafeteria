@@ -5,7 +5,7 @@
 - **[Clonamos nuestro repositorio]**
 
 ```
-git clone 
+git clone https://github.com/BrandonOcampoDs1/prueba_konecta.git
 ```
 
 Ejecutamos nuestro comando [git clone] más el repositorio.
