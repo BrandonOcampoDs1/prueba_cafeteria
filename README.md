@@ -6,7 +6,6 @@
 
 ```
 git clone 
-
 ```
 
 Ejecutamos nuestro comando [git clone] más el repositorio.
