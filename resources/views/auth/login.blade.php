@@ -10,7 +10,7 @@
                 @csrf
 
                 <div class="row mb-1">
-                    <h1 class="text-center fw-bold">CAFETERÍA KONECTA</h1>
+                    <h1 class="text-center fw-bold">CAFETERÍA PRUEBA</h1>
                 </div>
                 <div class="row mb-1">
                     <label for="email" class="col-md-12 col-form-label  ">{{ __('Correo') }}</label>
